@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "age": 28,
+    "department": "Engineering",
+    "salary": 75000,
+    "experience": 5,
+    "performance_score": 8.5,
+    "join_date": "2019-03-15"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "age": 34,
+    "department": "Marketing",
+    "salary": 65000,
+    "experience": 8,
+    "performance_score": 7.2,
+    "join_date": "2016-07-22"
+  },
+  {
+    "id": 3,
+    "name": "Carol Davis",
+    "age": 31,
+    "department": "Engineering",
+    "salary": 82000,
+    "experience": 7,
+    "performance_score": 9.1,
+    "join_date": "2017-11-08"
+  },
+  {
+    "id": 4,
+    "name": "David Wilson",
+    "age": 26,
+    "department": "Sales",
+    "salary": 58000,
+    "experience": 3,
+    "performance_score": 6.8,
+    "join_date": "2021-01-12"
+  },
+  {
+    "id": 5,
+    "name": "Eva Brown",
+    "age": 29,
+    "department": "HR",
+    "salary": 62000,
+    "experience": 6,
+    "performance_score": 8.0,
+    "join_date": "2018-05-30"
+  },
+  {
+    "id": 6,
+    "name": "Frank Miller",
+    "age": 37,
+    "department": "Engineering",
+    "salary": 95000,
+    "experience": 12,
+    "performance_score": 9.3,
+    "join_date": "2012-09-14"
+  },
+  {
+    "id": 7,
+    "name": "Grace Lee",
+    "age": 25,
+    "department": "Marketing",
+    "salary": 55000,
+    "experience": 2,
+    "performance_score": 7.5,
+    "join_date": "2022-03-01"
+  },
+  {
+    "id": 8,
+    "name": "Henry Taylor",
+    "age": 33,
+    "department": "Sales",
+    "salary": 68000,
+    "experience": 9,
+    "performance_score": 8.2,
+    "join_date": "2015-12-18"
+  },
+  {
+    "id": 9,
+    "name": "Ivy Chen",
+    "age": 30,
+    "department": "Engineering",
+    "salary": 78000,
+    "experience": 6,
+    "performance_score": 8.7,
+    "join_date": "2018-08-25"
+  },
+  {
+    "id": 10,
+    "name": "Jack Anderson",
+    "age": 35,
+    "department": "HR",
+    "salary": 70000,
+    "experience": 10,
+    "performance_score": 7.9,
+    "join_date": "2014-04-07"
+  }
+]
